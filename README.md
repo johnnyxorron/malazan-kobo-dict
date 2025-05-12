@@ -12,13 +12,13 @@ dicthtml-mz-dg: Deadhouse Gates
 
 dicthtml-mz-mi: Memories of Ice
 
-dicthtml-mz-rg: Reaper's Gale
-
-dicthtml-mz-bh: The Bonehunters
+dicthtml-mz-hc: House of Chains
 
 dicthtml-mz-mt: Midnight Tides
 
-dicthtml-mz-hc: House of Chains
+dicthtml-mz-bh: The Bonehunters
+
+dicthtml-mz-rg: Reaper's Gale
 
 dicthtml-mz-th: Toll the Hounds
 
